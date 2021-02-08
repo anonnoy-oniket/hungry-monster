@@ -47,3 +47,4 @@ const displayFoodPreview = foodsObject => {
         }
     }
 }
+
